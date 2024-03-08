@@ -70,12 +70,12 @@ article {
 
 footer {
     background-color: #AC13A6;
-    padding: ;
+    padding: 20px;
     display: flex
 }
 
 footer a {
-    margin-right: ;
+    margin-right: 50px;
 }
 
 footer p {
